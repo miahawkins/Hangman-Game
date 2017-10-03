@@ -1,0 +1,31 @@
+body {
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+}
+
+header {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 0%;
+}
+
+.box {
+	border: dashed;
+	border-style: dotted;
+	border-color: white;
+	border-width: 10px;
+	border
+	color: white;
+	background-color: pink;
+	margin: 10% 20%;
+	padding: 5% 5% 20% 40%;
+	text-align: right;
+}
+
+.flag {
+	width: 10%;
+	height: 5%;
+}
